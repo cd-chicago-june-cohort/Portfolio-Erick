@@ -1,0 +1,290 @@
+*{
+
+}
+#header{
+    width: 970px;
+    height: 75px;
+    background-color:#e6e6e6;
+}
+#Jane{
+    display: inline-block;
+    height: 40px;
+    width: 250px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#MasterOfShadow{
+    
+    height: 40px;
+    width: 350px;
+    color: black;
+    font-size: 23px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 25px;
+}
+#wrapper{
+    width: 970px;
+    height: auto;
+    overflow: hidden;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-radial-gradient(#6F5964, #66515B, #1A0A0E); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(#6F5964, #66515B, #1A0A0E); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(#6F5964, #66515B, #1A0A0E); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(#6F5964, #66515B, #1A0A0E); /* Standard syntax */
+}
+.selfie{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+}
+#selfiepic{
+    border: 7px solid grey;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#about{
+    width: 500px;
+    height: 300px;
+    margin: 19px;
+    float: right;
+}
+#aboutHeader{
+    width: 489px;
+    height: 42px;
+    font-size: 20px;
+    color: white;
+    vertical-align: 20px;
+    display: inline-block;
+    padding: 10px 0px 0px 11px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#aboutBody{
+    width: 500px;
+    height: 243px;
+    background-color: #DCCDDB;
+    padding-top: 20px; 
+}
+.aboutbodyP{
+    margin-top: 0px;
+    margin-left: 10px;
+    color: black;
+}
+a{
+    color: black;
+}
+#LaMode{
+    background-color: #ECE5EC;
+    height: 550px;
+    width: 280px;
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+}
+#LaModeHeader{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#laModePic{
+    width: 280px;
+    height: 150px;
+}
+#laModeText{
+    margin-left: 10px;
+}
+#laModeFooter{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: white;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#LMbadges{
+    text-align: left;
+    margin: 5px;
+}
+#laModeButton{
+    width: 75px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    float: middle;
+    margin-top: 10px;
+    margin-left: 100px;
+    box-shadow: 4px 4px 5px #888888;
+}
+#FamilyContacts{
+    background-color: #ECE5EC;
+    height: 550px;
+    width: 280px;
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+}
+#FamilyContactsHeader{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#FamilyPic{
+    width: 280px;
+    height: 150px;
+}
+#FamilyText{
+    margin-left: 10px;
+}
+#FamilyFooter{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: white;
+     background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+familyBadges{
+    text-align: left;
+    margin: 5px;
+}
+#familyButton{
+    width: 150px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    float: middle;
+    margin-top: 10px;
+    margin-left: 70px;
+    box-shadow: 4px 4px 5px #888888;
+}
+#fiveEleven{
+    background-color: #ECE5EC;
+    height: 550px;
+    width: 280px;
+    display: inline-block;
+    margin: 20px;
+}
+#fiveElevenHeader{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#fivePic{
+    width: 280px;
+    height: 150px;
+}
+#fiveText{
+    margin-left: 10px;
+}
+#fiveFooter{
+    width: 265px;
+    height: 30px;
+    padding: 10px 0px 0px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: white;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#AAA9AE,#878593, #AAA9AE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#AAA9AE,#878593, #AAA9AE); /* Standard syntax */
+}
+#fiveBadges{
+    text-align: left;
+    margin: 5px;
+}
+#fiveButton{
+    width: 85px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 90px;
+    box-shadow: 4px 4px 5px #888888;
+}
+.badges{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 5px;
+}
+#footer{
+    width: 970px;
+    height: 110px;
+    background-color:#e6e6e6;
+}
+#info{
+    display: inline-block;
+    height: 30px;
+    width: 970px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 5px;
+}
+#links{
+    width: 970px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.linkbadges{
+    display: inline;
+    height: 30px;
+    width: 30px;
+}
+.linkNames{
+    display: inline-block;
+    vertical-align: 8px;
+}
